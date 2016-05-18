@@ -29,7 +29,7 @@ body {
 
 #build_block {
   height: 80%;
-  width: 150px;
+  width: 200px;
   display: flex;
   flex-direction: column;
   align-items: center;
